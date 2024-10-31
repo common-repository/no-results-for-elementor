@@ -1,0 +1,10 @@
+=== No Results For Elementor ===
+= 1.0.2 =
+* Re-Fix search icon size
+
+= 1.0.1 =
+* Fix search icon size
+* Add colour picker for title
+
+= 1.0.0 =
+* First Stable version released
